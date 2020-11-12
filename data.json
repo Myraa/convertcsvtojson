@@ -1,0 +1,18 @@
+[
+    {
+        "firstname": "prasad",
+        "lastname": "boddu",
+        "email": "test@testmail.com",
+        "flgx": "No",
+        "flgy": "Yes",
+        "plancode": "NTTSLITEST"
+    },
+    {
+        "firstname": "james",
+        "lastname": "right",
+        "email": "test@testmail.com",
+        "flgx": "No",
+        "flgy": "Yes",
+        "plancode": "NTTSLI TEST"
+    }
+]
